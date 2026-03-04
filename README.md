@@ -19,11 +19,6 @@
 - 原型制作爱好者
 - 编程教学场景
 
-## 包名
-
-```
-com.example.phonemaker
-```
 ## 下载方法
 
 网址：http://a.ruansky.com/up/4547018/
@@ -32,4 +27,4 @@ com.example.phonemaker
 
 ## 警告⚠️
 
-此应用为Github的wangweihan（也就是我）制作，本人软天空名称为“i开发者”。请勿抄袭。如遇到别人发布此应用，则为盗版，请立即举报！
+此应用为Github的wangweihanNB（也就是我）制作，本人软天空名称为“i开发者”。请勿抄袭。如遇到别人发布此应用，则为盗版，请立即举报！
